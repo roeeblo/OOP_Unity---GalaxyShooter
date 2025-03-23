@@ -17,9 +17,9 @@
 ### • **Power-Ups**: Collect power-ups to gain special abilities:
   - **Split Shot**: Fire multiple projectiles at once.  
   - **Speed Boost**: Increase your spaceship's speed.  
-  - **Shield**: Gain temporary invincibility.  
+  - **Shield**: Gain temporary invincibility.
+  - ![image](https://github.com/user-attachments/assets/d227fd2c-d157-4883-8d91-710c029709b4)
 ### • **Score System**: Earn points for every enemy destroyed
 
 ![image](https://github.com/user-attachments/assets/bfdd5889-bd06-4255-ba19-7111784e6e9d)
 
-![image](https://github.com/user-attachments/assets/d227fd2c-d157-4883-8d91-710c029709b4)
