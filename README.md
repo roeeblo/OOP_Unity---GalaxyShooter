@@ -19,7 +19,7 @@
   - **Speed Boost**: Increase your spaceship's speed.
   - ![image](https://github.com/user-attachments/assets/057c7d28-b9f0-4b3f-83c4-2065c181fade)
   - **Shield**: Gain temporary invincibility.
-  - ![image](https://github.com/user-attachments/assets/d227fd2c-d157-4883-8d91-710c029709b4)
+    ![image](https://github.com/user-attachments/assets/a98e44ea-f51c-4a08-ae85-7c2d284d71ee)
 ### • **Score System**: Earn points for every enemy destroyed
 
 
