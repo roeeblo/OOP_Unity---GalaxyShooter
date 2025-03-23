@@ -15,7 +15,7 @@
 ### • **Fight Enemy Spaceships**: Defeat waves of enemy spaceships to survive, increasing in speed and amount as you go 
 ### • **Power-Ups**: Collect power-ups to gain special abilities:
   - **Split Shot**: Fire multiple projectiles at once.
-  - ![image](https://github.com/user-attachments/assets/bfdd5889-bd06-4255-ba19-7111784e6e9d)
+    ![image](https://github.com/user-attachments/assets/f63df8d9-2288-43f6-8bee-761fa51bfe37)
   - **Speed Boost**: Increase your spaceship's speed.
   - ![image](https://github.com/user-attachments/assets/057c7d28-b9f0-4b3f-83c4-2065c181fade)
   - **Shield**: Gain temporary invincibility.
