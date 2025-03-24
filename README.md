@@ -7,11 +7,12 @@
 
 
 ---
-- ![image](https://github.com/user-attachments/assets/812e6d89-7408-4f8a-820d-de84ab600e24)
 
 
 ## Features
 ### • Fully functioning 2-Player mode!
+- ![image](https://github.com/user-attachments/assets/812e6d89-7408-4f8a-820d-de84ab600e24)
+
 ### • **Fight Enemy Spaceships**: Defeat waves of enemy spaceships to survive, increasing in speed and amount as you go 
 ### • **Power-Ups**: Collect power-ups to gain special abilities:
   - **Split Shot**: Fire multiple projectiles at once.
