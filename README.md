@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/0629f9e8-407f-4fe8-a941-c8bd1ff3c3b2)
 
 ## Overview
-**Galaxy Shooter** is a fast-paced 2D space shooter game built using **Unity**. Your mission is to survive waves of enemies, destroy asteroids, and collect power-ups to upgrade your spaceship. The game features intense action, power-ups, and challenging enemies!
+**Galaxy Shooter** is a 2D space shooter game built using **Unity**. The mission is to survive waves of enemies, destroy an asteroid, collect power-ups and get high scores.
 
 
 ---
